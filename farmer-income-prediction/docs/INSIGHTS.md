@@ -14,7 +14,7 @@ verified across all 47,970 training rows: the residual
 too, so a meaningful share of the answer is already known and only the
 agricultural component needs modelling. This is the single most
 consequential fact about the dataset, and it shapes our whole approach:
-our best-performing formulation (weight 0.52 in the final blend) predicts
+our best-performing formulation (the largest weight in the final blend) predicts
 `log1p(agricultural income)` and adds the known non-agricultural income
 back on, rather than predicting total income directly.
 
