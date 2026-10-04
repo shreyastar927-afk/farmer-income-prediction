@@ -55,4 +55,4 @@ Seeded (`SEED = 42`), so results should be stable for a given library version. P
 
 ## Team
 
-Shreya Harikumar and Divya, NITK Surathkal.
+Shreya Harikumar and Divya Mohad, NITK Surathkal.
