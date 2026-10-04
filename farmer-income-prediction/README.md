@@ -1,6 +1,6 @@
 # Farmer Income Prediction: L&T Finance Challenge
 
-**3rd place out of 126 participants** (team *Katin Katin*, team of 2) in the L&T Finance farmer income prediction challenge.
+**3rd place in the finals (126 participants registered; top 8 teams reached the finals), team Katin Katin (team of 2), L&T Finance farmer income prediction challenge.**
 
 The task: predict each farmer's total annual income from 105 raw columns (demographics, land, soil, climate, village-level socio-economic indicators, credit bureau history). 47,970 training rows, 9,986 test rows. Metric: **MAPE**.
 
